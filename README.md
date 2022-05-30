@@ -22,6 +22,7 @@ pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple
 6.存储速度取决于网络，这个网站的服务器在国外，挂梯子效果会更好。
 
 爬取星之卡比的示例图片：
+
 ![图片](https://user-images.githubusercontent.com/48084562/170929839-54a4e2da-5d07-462a-aebd-cf7e7ca017e0.png)
 
 ![图片](https://user-images.githubusercontent.com/48084562/170929818-f08af5eb-672d-4c07-a75d-1b3d29ee3678.png)
