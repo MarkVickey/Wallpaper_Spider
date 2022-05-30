@@ -6,6 +6,7 @@
 
 源码所依赖的库安装方式：
 配置好python环境后在cmd或终端运行下面程序
+
 pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ![图片](https://user-images.githubusercontent.com/48084562/170929694-c86531df-c60c-4a3c-b7d8-23035ef497ba.png)
